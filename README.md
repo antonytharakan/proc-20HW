@@ -1,1 +1,2 @@
-# proc-20HW
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
